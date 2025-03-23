@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica, sans-serif, Georgia;
+  background-color: aquamarine;
+  text-align: justify center;
+}
+
+h1 {
+  text-align: center;
+  background-color: lightcoral;
+}
+
+.home {
+  background-color: #f0b038;
+  font-weight: bold;
+}
